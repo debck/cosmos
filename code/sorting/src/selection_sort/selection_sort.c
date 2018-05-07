@@ -1,6 +1,8 @@
+/* Part of Cosmos by OpenGenus Foundation */
 #include <stdio.h>
-// Part of Cosmos by OpenGenus Foundation
-int main()
+
+int
+main()
 {
     int n, i, j, min, temp;
     
